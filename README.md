@@ -17,8 +17,7 @@
 <pre>
 I am a Systems Engineer with experience in backend development.
 During my training, I learned about architecture patterns, algorithms, and data structures.
-I also developed logical thinking focused on problem-solving
-and building efficient software using best practices.
+I also developed logical thinking focused on problem-solving and building efficient software using best practices.
 I am interested in continuing to learn and grow professionally in the tech field.
 
 • 🌱 I am currently learning:
