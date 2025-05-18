@@ -15,10 +15,11 @@
 <hr>
 
 <pre>
-Soy Ingeniero en Sistemas con experiencia en desarrollo backend. 
-Durante mi formación, aprendí sobre patrones de arquitectura, algoritmos y estructuras de datos. 
-Además, desarrollé un pensamiento lógico orientado a la resolución de problemas y a la construcción de software eficiente. 
-Estoy comprometido con seguir aprendiendo y aplicar buenas prácticas en el desarrollo de software.
+Soy Ingeniero en Sistemas con experiencia en desarrollo backend.
+Durante mi formación aprendí sobre patrones de arquitectura, algoritmos y estructuras de datos.
+También desarrollé pensamiento lógico orientado a la resolución de problemas
+y a la construcción de software eficiente, utilizando buenas prácticas.
+Me interesa seguir aprendiendo y crecer profesionalmente en el área tecnológica.
 
 • 🌱 Actualmente estoy aprendiendo:
    ○ React
