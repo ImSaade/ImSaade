@@ -3,42 +3,42 @@
 </div>
 
 <p align="center">
-  <h1 align="center">Hola, soy Eduardo Saavedra 👋</h1>
+  <h1 align="center">Hello, I'm Eduardo Saavedra 👋</h1>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=5500&pause=1200&color=27E4F7&background=FFFFFF00&center=true&multiline=true&width=700&lines=Entusiasta+de+la+ciberseguridad+y+desarrollador+backend." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=5500&pause=1200&color=27E4F7&background=FFFFFF00&center=true&multiline=true&width=700&lines=Cybersecurity+enthusiast+and+backend+developer." alt="Typing SVG" />
   </a>
 </p>
 
 <hr>
 
 <pre>
-Soy Ingeniero en Sistemas con experiencia en desarrollo backend.
-Durante mi formación aprendí sobre patrones de arquitectura, algoritmos y estructuras de datos.
-También desarrollé pensamiento lógico orientado a la resolución de problemas
-y a la construcción de software eficiente, utilizando buenas prácticas.
-Me interesa seguir aprendiendo y crecer profesionalmente en el área tecnológica.
+I am a Systems Engineer with experience in backend development.
+During my training, I learned about architecture patterns, algorithms, and data structures.
+I also developed logical thinking focused on problem-solving
+and building efficient software using best practices.
+I am interested in continuing to learn and grow professionally in the tech field.
 
-• 🌱 Actualmente estoy aprendiendo:
+• 🌱 I am currently learning:
    ○ React
    ○ Express.js
 
-• 🌟 Mis lenguajes principales son:
+• 🌟 My main programming languages are:
    ○ Python
    ○ JavaScript
 
-Actualmente estoy disponible para: <b>una pasantía</b> 🤔 o una nueva <b>oportunidad laboral</b>.
+I am currently open to: <b>an internship</b> 🤔 or a new <b>job opportunity</b>.
 
-• 📫 Puedes contactarme en: <a href="mailto:saaenie@gmail.com">saaenie@gmail.com</a>
+• 📫 You can contact me at: <a href="mailto:saaenie@gmail.com">saaenie@gmail.com</a>
 </pre>
 
 <hr>
 
-## Mis habilidades son:
+## My skills are:
 
-<h4>Lenguajes y Frameworks</h4>
+<h4>Languages and Frameworks</h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -51,7 +51,7 @@ Actualmente estoy disponible para: <b>una pasantía</b> 🤔 o una nueva <b>opor
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 </span>
 
-<h4>Otras herramientas</h4>
+<h4>Other Tools</h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -63,8 +63,9 @@ Actualmente estoy disponible para: <b>una pasantía</b> 🤔 o una nueva <b>opor
 
 <hr>
 
-## Estadísticas de GitHub
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImSaade&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 </div>
+
