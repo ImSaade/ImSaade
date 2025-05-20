@@ -2,7 +2,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=50&textBg=false">
 </div>
 
-<h1 align="center">Hello, I'm Eduardo Saavedra 👋</h1>
+<p align="center">
+  <h1 align="center">Hello, I'm Eduardo Saavedra 👋</h1>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,29 +14,30 @@
 
 <hr>
 
-> I am a Systems Engineer with experience in backend development.  
-> During my training, I learned about architecture patterns, algorithms, and data structures.  
-> I developed logical thinking focused on problem-solving and building efficient software using best practices.  
-> I am interested in continuing to learn and grow professionally in the tech field.  
-> 
-> • 🌱 I am currently learning:  
->   ○ React  
->   ○ Express.js  
-> 
-> • 🌟 My main programming languages are:  
->   ○ Python  
->   ○ JavaScript  
-> 
-> I am currently open to: an internship 🤔 or a new job opportunity.  
-> 
-> • 📫 You can contact me at: [saaenie@gmail.com](mailto:saaenie@gmail.com)
+<pre>
+I am a Systems Engineer with experience in backend development.
+During my training, I learned about architecture patterns, algorithms, and data structures.
+I also developed logical thinking focused on problem-solving and building efficient software using best practices.
+I am interested in continuing to learn and grow professionally in the tech field.
+
+• 🌱 I am currently learning:
+   ○ React
+   ○ Express.js
+
+• 🌟 My main programming languages are:
+   ○ Python
+   ○ JavaScript
+
+I am currently open to: <b>an internship</b> 🤔 or a new <b>job opportunity</b>.
+
+• 📫 You can contact me at: <a href="mailto:saaenie@gmail.com">saaenie@gmail.com</a>
+</pre>
 
 <hr>
 
 ## My skills are:
 
-### Languages and Frameworks
-
+<h4>Languages and Frameworks</h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -47,8 +50,7 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 </span>
 
-### Other Tools
-
+<h4>Other Tools</h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
