@@ -8,30 +8,32 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=5500&pause=1200&color=27E4F7&background=FFFFFF00&center=true&multiline=true&width=700&lines=Cybersecurity+enthusiast+and+backend+developer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=5500&pause=1200&color=27E4F7&background=FFFFFF00&center=true&multiline=true&width=700&lines=Backend+developer+and+cybersecurity+enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <hr>
+<p align="center">
+I am a systems engineer with experience in backend development. During my training, I gained knowledge  
+in architectural patterns, algorithms, and data structures, which helped me develop logical thinking  
+focused on problem-solving and building efficient software following best practices. I am eager to  
+continue learning and growing professionally in the tech field.
+</p>
 
-<pre>
-I am a Systems Engineer with experience in backend development.
-During my training, I learned about architecture patterns, algorithms, and data structures.
-I also developed logical thinking focused on problem-solving and building efficient software using best practices.
-I am interested in continuing to learn and grow professionally in the tech field.
+- 🌱 I am currently learning:
+  - React  
+  - Express.js
 
-• 🌱 I am currently learning:
-   ○ React
-   ○ Express.js
+- 🌟 My main programming languages are:
+  - Python  
+  - JavaScript
 
-• 🌟 My main programming languages are:
-   ○ Python
-   ○ JavaScript
+- 💼 I am currently open to:
+  - An internship 🤔  
+  - A new job opportunity
 
-I am currently open to: <b>an internship</b> 🤔 or a new <b>job opportunity</b>.
-
-• 📫 You can contact me at: <a href="mailto:saaenie@gmail.com">saaenie@gmail.com</a>
-</pre>
+- 📫 You can contact me at:  
+  - saaenie@gmail.com
 
 <hr>
 
